@@ -1,5 +1,5 @@
 {
-  "name":"NEURO-MD",
+  "name":"cally-stars",
   "description":"An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Allamano",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/grlqyj.png",
@@ -27,13 +27,13 @@
     "AUTO_READ":
     {
       "description":"Your contact  will be read messages automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value":"no",
+      "value":"yes",
       "required":false   
       },
   "AUTO_REACT":
     {
       "description":"Enter yes for your bot to auto react",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
 "ANTICALL":
@@ -57,7 +57,7 @@
     ,
     "BOT_NAME" : {
        
-      "description":"put A name for your bot",
+      "description":"cally-stars",
       "value":"NEURO-MD",
       "required":false
 
@@ -87,7 +87,7 @@
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID , the code you receive after scanning Qr code",   
+      "description":"BLACK MD;;;Q6sjUZCb#tu7BLiSdy6cTGen8nfGrag2z2b05BFQQoCh3s6Tu2FQ",   
       "value":"",
       "required":true
       
@@ -95,14 +95,14 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "cally-stars",
     "required": false,
     "value": "NEURO"
   },
     "NUUERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of Kenya '254')",
+    "desc": "254745115188",
     "required":true,
     "value": ""
   },
@@ -120,7 +120,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 online. 2 typing a message. 3 recording . Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"recording",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
