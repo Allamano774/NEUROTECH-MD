@@ -91,9 +91,9 @@ src="https://files.catbox.moe/grlqyj.png">
 ### 🔹 Step 2: Generate Session ID
 You need a session to connect your bot. Choose your preferred method:
 
-[![Scan QR Code](https://img.shields.io/badge/SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white)](https://neurotech-md-2z8e.onrender.com/pair) 
+[![Scan QR Code](https://img.shields.io/badge/SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white)](https://neurotech-md-1-vk0w.onrender.com) 
 
-[![Pair Device](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white)](https://neurotech-md-2z8e.onrender.com/pair)
+[![Pair Device](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white)](https://neurotech-md-1-vk0w.onrender.com)
 
 ---
 
